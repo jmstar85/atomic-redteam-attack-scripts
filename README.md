@@ -257,7 +257,24 @@ Contributions are welcome! Please:
 
 ## 📄 License
 
-This project is released under the **MIT License** for educational and research purposes only.
+**Copyright (c) 2025 jmstar85. All rights reserved.**
+**
+This software and associated documentation files (the "Software") are the exclusive property of jmstar85. All rights, title, and interest in and to the Software are owned by jmstar85.**
+
+**Terms of Use**
+
+This project is provided for educational and research purposes only.
+
+**Copyright Protection**
+
+Unauthorized copying, distribution, modification, or use of this Software, in whole or in part, is strictly prohibited without explicit written permission from the copyright owner.
+Any violation of these terms may result in legal action and you may be subject to civil and criminal penalties under applicable copyright laws.
+All intellectual property rights, including but not limited to copyrights, patents, and trade secrets, remain with jmstar85.
+Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+For licensing inquiries or permission requests, please contact the repository owner.
 
 ```
 MIT License
@@ -320,3 +337,4 @@ SOFTWARE.
 Made with ❤️ for the cybersecurity community
 
 </div>
+
